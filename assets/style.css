@@ -1,0 +1,17 @@
+#counter{
+    height: 100vh;
+    display: flex;
+    padding: 10px 15px;
+    cursor: pointer;
+    border: none;
+    outline: none;
+    align-items: center;
+    justify-content: center;
+    background: rgb(132, 91, 170); 
+}
+#counter input{
+    padding: 10px 15px;
+    text-align: center;
+    border: none;
+    outline: none;
+}
